@@ -5,4 +5,4 @@ C#, Rhino, Grasshopper
 
 Collaborated with Shiyi Peng
 
-Contribution: General Idea & Algorithm, Discretalization and Post-Processing Script
+Contribution: General Idea & Algorithm Design, Discretalization and Post-Processing Script
